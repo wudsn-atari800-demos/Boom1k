@@ -1,0 +1,6 @@
+
+set RELEASE=Boom!k
+set RELEASE_LOWERCASE=boom!k
+set RELEASE_FILENAME=AUTORUN.AR0
+
+set BASE_DIR=%~dp0
